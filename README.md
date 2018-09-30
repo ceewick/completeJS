@@ -1,5 +1,5 @@
 # Below are my notes, below that are course's standard ReadME
-- I've made it to Chapter 6. In all previous courses, my work/notes are on Starter folder. In chapt 6, I made starter fresh, and final as my edits. 
+- I've made it to Chapter 6. In all previous chapters, my work/notes are on Starter folder. In chapt 6, I made starter folder a fresh template, and the final folder has my work. 
 - This is only posted on here so I can keep track of notes if computer dies
 
 # ---------------------------
