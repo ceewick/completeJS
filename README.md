@@ -1,3 +1,9 @@
+# Below are my notes, below that are course's standard ReadME
+- I've made it to Chapter 6. In all previous courses, my work/notes are on Starter folder. In chapt 6, I made starter fresh, and final as my edits. 
+- This is only posted on here so I can keep track of notes if computer dies
+
+# ---------------------------
+
 # Course Material and FAQ for my Complete JavaScript Course
 
 This repo contains starter files and the finished project files for all the projects contained in the course.
