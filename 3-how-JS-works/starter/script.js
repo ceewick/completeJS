@@ -1,21 +1,36 @@
 ///////////////////////////////////////
 // Lecture: Hoisting
 
+/// Function Hoisting
 
+calculateAge(1990);
 
+function calculateAge(year) {
+    console.log(2016 - year);
+}
+// ^^ function declarations, can call function before
 
+// retirement(1990);
 
+// var retirement = function(year) {
+//     console.log(65-(2016-year));
+// }
 
+//  ^^ function expression, cannot 'hoist' function before defined
 
+/// Variable Hoisting
+console.log(age);
+var age = 23; 
+console.log(age);
 
+function foo() {
+    console.log(age);
+    var age = 65;
+    console.log(age);
+}
 
-
-
-
-
-
-
-
+foo();
+console.log(age)
 
 ///////////////////////////////////////
 // Lecture: Scoping
